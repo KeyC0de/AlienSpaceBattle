@@ -35,7 +35,6 @@
     <Compile Include="setup.py" />
     <Compile Include="ship.py" />
     <Compile Include="star.py" />
-    <Compile Include="utils.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.6" />
