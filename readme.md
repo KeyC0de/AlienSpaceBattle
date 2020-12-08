@@ -43,6 +43,13 @@ You can clone it, fork it, contribute to it, anything you want.
 Check code comments for more information.
 
 
+### Horizontal / Vertical Scroller game mechanics
+
+<p style="text-align: center;">
+	<img src="_present/vertical_horiz_scrolling_game.jpg" />
+</p>
+
+
 ## cx_Freeze!
 
 You can also use cxFreeze to build an executable out of your Python program. To do that create a setup.py file inside the project folder AlienSpaceBattle and fill it with required options. This was mine:
@@ -79,6 +86,11 @@ Then just run it. It will create a build folder with all the assets and the exec
 * Arrow keys : move left, down, right, up
 * SPACE : fire bolt
 * ENTER : Fire missile
+
+
+# Contribute
+
+Please submit any bugs you find through GitHub repository 'Issues' page with details describing how to replicate the problem. If you liked it or you learned something new give it a star, clone it, contribute to it whatever. Enjoy.
 
 
 # License
