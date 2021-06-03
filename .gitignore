@@ -25,3 +25,5 @@ $RECYCLE.BIN/
 
 # exclude specific files
 AlienSpaceBattle/setup.py
+readme.html
+readme.site.md
