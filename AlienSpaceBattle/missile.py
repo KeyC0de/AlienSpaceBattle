@@ -1,6 +1,7 @@
 import pygame
 from pygame.sprite import Sprite
 
+
 class Missile(Sprite):
     """ A class to manage missiles fired from ship. """
     

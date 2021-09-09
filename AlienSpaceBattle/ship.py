@@ -1,6 +1,7 @@
 import pygame
 from pygame.sprite import  Sprite
 
+
 class Ship(Sprite):
     # This class manages most of the player's ship behavior
     

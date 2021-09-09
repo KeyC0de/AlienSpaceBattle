@@ -7,8 +7,8 @@ from random import randrange
 from game_stats import config
 from os import environ
 
-y = 0   # for bg image update
 
+y = 0   # for bg image update
 
 def checkForEvents(options, screen, ship, aliens, bullets, missiles, playButton, stats, scoreboard):
     """ monitor input (keyboard and mouse) events """

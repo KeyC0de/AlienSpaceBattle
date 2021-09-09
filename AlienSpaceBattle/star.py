@@ -2,6 +2,7 @@ import pygame
 from random import randrange
 from pygame.sprite import Sprite
 
+
 class Star(Sprite):
     """ class describes a raindrop object """
     

@@ -2,6 +2,7 @@ import pygame
 from pygame.sprite import Sprite
 from random import randint, seed
 
+
 class Alien(Sprite):
     """ A class to represent a single alien in the fleet. """
     
@@ -54,7 +55,7 @@ class Alien(Sprite):
         self.direction *= -1
     
     def blitme(self):
-        """ Draw alien at its current locaiton """
+        """ Draw alien at its current location """
     
         self.screen.blit(self.image, self.rect)
     
