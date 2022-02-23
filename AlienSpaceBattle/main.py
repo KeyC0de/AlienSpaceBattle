@@ -12,17 +12,6 @@ from scoreboard import Scoreboard
 #clock = pygame.time.Clock()
 #fps = 300
 
-# kivy experiment (not worth it)
-#from kivy.app import App
-#from kivy.uix.button import Label
-
-#class AlienShipBattle(App):
-
-#def build(self):
-#    self.startGame()
-#    #return Label()
-
-#@staticmethod
 def startGame():
 
 	# initialize
@@ -95,5 +84,4 @@ def startGame():
 
 # Time to play the game
 if __name__ == '__main__':
-	#AlienShipBattle().run()
 	startGame()
